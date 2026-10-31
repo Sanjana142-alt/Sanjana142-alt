@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sanjana 👋
 
-<!--
-**Sanjana142-alt/Sanjana142-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering Student at VIT-AP University.
 
-Here are some ideas to get you started:
+💻 Interested in Java, Full Stack Development and Problem Solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- Java
+- SQL
+- MySQL
+- Spring Boot
+- REST APIs
+- Data Structures and Algorithms
+
+### Projects
+- Smart Expense and Subscription Anomaly Detector
+- Smart Queue and Crowd Prediction System
+- Intelligent Civic Complaint Resolution Platform
+### Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/sanjana-kokkiligadda-897711382/)
+- [GitHub](https://github.com/Sanjana142-alt)
