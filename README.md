@@ -51,21 +51,21 @@
 <tr>
 <td width="33%" valign="top">
 
-<h3>💰 Smart Expense Detector</h3>
+<h3>💰 Smart Expense and Subscription Anomaly Detector</h3>
 
 Tracks expenses and identifies unusual spending patterns.
 
 </td>
 <td width="33%" valign="top">
 
-<h3>👥 Smart Queue System</h3>
+<h3>👥 Smart Queue and Crowd Prediction System</h3>
 
 Predicts crowd levels and helps manage queues efficiently.
 
 </td>
 <td width="33%" valign="top">
 
-<h3>🏛️ Civic Complaint Platform</h3>
+<h3>🏛️ Intelligent Civic Complaint Resolution Platform</h3>
 
 Routes citizen complaints to appropriate departments.
 
