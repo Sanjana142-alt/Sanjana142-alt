@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="./profile.svg" width="100%" alt="Sanjana's blue GitHub profile design"/>
+</div>
+<div align="center">
   <img src="./WhatsApp%20Image%202026-10-31%20at%2014.32.05.jpeg" width="100%" alt="Sanjana - Java Developer"/>
 </div>
 
