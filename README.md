@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./WhatsApp%20Image%202026-10-31%20at%2014.32.05.jpeg" width="100%" alt="Sanjana - Java Developer"/>
 </div>
-
+<div align="center" style="background-color: #EAF4FF; padding: 20px; border-radius: 15px;">
 <h2 align="center">👋 Hi, I'm Sanjana!</h2>
 
 <h3 align="center">B.Tech CSE Student | Java Developer | Aspiring Software Engineer</h3>
